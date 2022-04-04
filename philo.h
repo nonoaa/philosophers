@@ -14,8 +14,7 @@ typedef struct  s_philo
     int             num;
     struct s_info   *info;
     int             eat_cnt;
-    long            count_time_sec;
-    int             count_time_usec;
+    size_t          count_time;
     int             full;
     pthread_mutex_t *r_fork;
     pthread_mutex_t *l_fork;
@@ -28,8 +27,7 @@ typedef struct  s_info
     int             time_eat;
     int             time_sleep;
     int             must_eat_num;
-    long            start_time_sec;
-    int             start_time_usec;
+    size_t          start_time;
     int             full_count;
     int             end;
     t_philo         *philo;
