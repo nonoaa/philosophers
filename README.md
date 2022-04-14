@@ -10,4 +10,4 @@
 # 실행화면
 <img width="592" alt="스크린샷 2022-04-14 오후 7 05 01" src="https://user-images.githubusercontent.com/56538203/163363263-ef892ddc-504d-44f5-8055-6bf58d2563b4.png">
 
-<img width="605" alt="스크린샷 2022-04-14 오후 7 03 55" src="https://user-images.githubusercontent.com/56538203/163363062-be596ecc-df4b-4d7d-83fd-a2e7f6b2df9c.png">
+<img width="611" alt="스크린샷 2022-04-14 오후 7 06 32" src="https://user-images.githubusercontent.com/56538203/163363590-dfe84021-9c2a-4eb9-8579-7b3b59935222.png">
