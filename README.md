@@ -6,6 +6,3 @@
 ```
   make >>> ./philo [philo_num] [time_to_die] [time_to_eat] [time_to_sleep] [number_must_eat(optional)]
 ```
-
-# 실행화면
-![image](https://user-images.githubusercontent.com/56538203/163362111-724bfca2-ea1a-44ff-8645-f9693febf7d1.png)
